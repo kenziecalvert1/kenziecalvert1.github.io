@@ -9,4 +9,12 @@ Welcome to my portfolio! My name is McKenzie Calverr I am a 23 year old student 
 
 Testing 1,2,3
 
+##To do List
+- Figure out how to resize images
+- Fix header hate it so much 
+- Maybe find a new theme
+- Fix text on main page
+- 2 weeks out
+- > Find out how to add tabs or new page 
+
 
