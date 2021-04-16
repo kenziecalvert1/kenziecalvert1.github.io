@@ -5,21 +5,8 @@ Welcome to my portfolio! My name is McKenzie Calverr I am a 23 year old student 
 
 ### About me
 
-![IMG_7575](https://user-images.githubusercontent.com/32115142/114974553-75b33200-9e37-11eb-94b9-b3538f1a85f3.jpg  | height=100)
+![IMG_7575](https://user-images.githubusercontent.com/32115142/114974553-75b33200-9e37-11eb-94b9-b3538f1a85f3.jpg  =250x250)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Testing 1,2,3
 
 
